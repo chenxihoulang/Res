@@ -1,2 +1,3 @@
 cc
 master merge --abort
+feature1 merge --abort
