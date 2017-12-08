@@ -6,3 +6,5 @@ feature1 merge --abort
 1   add .
 
 2 add .
+
+git show commitid aaff\c.txt
